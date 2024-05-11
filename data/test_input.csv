@@ -1,0 +1,2 @@
+,latitude,longitude,date,temperature_high,temperature_mid,temperature_low,dew_point,humidity,cloud_cover,pressure,wind_bearing,wind_speed,Fall,Spring,Summer,Winter,No Precipitation,rain,precip_type
+0,44.0,-120.5,2024-05-01,47.65550231933594,34.230499267578125,25.965499877929688,20.760499954223633,0.643556137084961,0.5742499923706055,854.3959350585938,297.34979248046875,15.332836151123047,0,0,0,0,0,0,snow
